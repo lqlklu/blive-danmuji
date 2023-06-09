@@ -4,7 +4,9 @@
 
 ### 1. 安装
 
-运行 `setup.bat`(Windows) 或者 `setup.sh`(Linux)。
+解压 `blive-danmuji-win.zip`或`blive-danmuji-linux.tar.gz`
+
+运行 `setup.ps1`(Windows) 或者 `setup.sh`(Linux)。
 
 ### 2. 解压模型
 
@@ -12,7 +14,7 @@
 
 ### 3. 运行
 
-运行 `main.bat`(Windows)或 `main.sh`(Linux)，脚本中的参数视情况修改。
+运行 `main.ps1`(Windows)或 `main.sh`(Linux)，脚本中的参数视情况修改。
 
 ## 自行训练模型
 
