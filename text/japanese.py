@@ -1,6 +1,6 @@
 import re
 from unidecode import unidecode
-import pyopenjtalk
+# import pyopenjtalk
 
 
 # Regular expression matching Japanese without punctuation marks:
